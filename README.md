@@ -6,5 +6,3 @@
 - composer 2.8.5
 - npm 10.8.2 | node 18.20.8
 - mysql: mariadb.service - MariaDB 10.5 
-
-# А главное сделано с душой
