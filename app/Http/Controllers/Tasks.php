@@ -88,6 +88,7 @@ class Tasks extends Controller
             $task->save();
 
             return response()->json([
+                "task" => $task,
                 "message" => "Сохранено"
             ], 200);
         } catch (Exception $e){
